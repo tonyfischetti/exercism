@@ -1,4 +1,4 @@
-(defproject bob "0.1.0-SNAPSHOT"
+(defproject bob "0.1.0"
   :description "bob exercise."
   :url "https://github.com/exercism/xclojure/tree/master/bob"
   :source-paths [""]
